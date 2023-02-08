@@ -1,5 +1,5 @@
 # sample-unity-project
-[itch.io link]([https://itch.io/popcron/sample-unity-game](https://popcron.itch.io/sample-unity-game)
+[itch.io link](https://itch.io/popcron/sample-unity-game)
 
 ### Initial setup
 1. Run the activation workflow to get a license file, then convert the generated license file using [this site](https://license.unity3d.com/manual)
